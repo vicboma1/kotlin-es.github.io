@@ -13,7 +13,7 @@ permalink: /2015/11/android-hello-world/
 
 
 Desde kotlin.es hoy vamos a mostrar como configurar un proyecto Android con Kotlin basado en un "Hola Mundo".
-La idea de esta pequeña entrada es acercar un poco más el alcance de Kotlin en los dispositivos móviles y ir iterando sobre pequeños proyectos poco a poco.
+La idea de esta pequeña entrada es acercar un poco más el alcance de Kotlin en los dispositivos móviles e ir iterando sobre pequeños proyectos poco a poco.
 
 Lo primero que necesitamos es descargarnos la versión de [Android Studio](https://developer.android.com/sdk/index.html) de la web oficial.
 Una vez instalado, hacemos doble click en el icono principal y se debe mostrar el popup de entrada.
