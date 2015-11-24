@@ -121,3 +121,10 @@ Seguidamente se arrancará el emulador reiniciando el sistema operativo de andro
 Finalmente nuestra aplicación "Hola Mundo" aparecerá en el display del dispositivo emulado.
 
 ![](/images/android/helloWorld/22.png)
+
+
+Como añadido os dejamos un video de como se ejecuta la aplicación en un dispositivo físico y una captura de pantalla del "logcat" .
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDVITRFEyCc" frameborder="0" allowfullscreen></iframe>
+<br>
+![](/images/android/helloWorld/23.png)
