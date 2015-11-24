@@ -16,7 +16,7 @@ Desde kotlin.es hoy vamos a mostrar como configurar un proyecto Android con Kotl
 La idea de esta pequeña entrada es acercar un poco más el alcance de Kotlin en los dispositivos móviles e ir iterando sobre pequeños proyectos poco a poco.
 
 Lo primero que necesitamos es descargarnos la versión de [Android Studio](https://developer.android.com/sdk/index.html) de la web oficial.
-Una vez instalado, hacemos doble click en el icono principal y se debe mostrar el popup de entrada.
+Una vez instalado, hacemos doble click en el icono principal de la App y se debe mostrar el popup de entrada.
 Seleccionamos la primera opción para la creación de un nuevo proyecto.
 
 ![](/images/android/helloWorld/00.png)
@@ -91,19 +91,33 @@ Pulsamos el icono de la parte inferior derecha en la opcion "Android virtual dev
 
 ![](/images/android/helloWorld/12.png)
 
-Pulsamos el boton "Create virtual device" y seleccionamos uno cualquiera.
+Pulsamos el boton "Create virtual device" y seleccionamos uno cualquiera de la lista que nos sale en pantalla.
 
 ![](/images/android/helloWorld/13.png)
 
 En el caso de clonar un dispositivo, visualizaremos esta imagen. Deseleccionamos todas las opciones que estan en el recuadro rojo.
 Esto permitirá que el emulador vaya un poquito más rápido.
-Pulsamos "next" para salir de la conifuración y otra vez "next" para terminar de editar el dispositivo virtual.
+Pulsamos "next" para salir de la configuración y otra vez "next" para terminar de editar el dispositivo virtual.
 
 ![](/images/android/helloWorld/14.png)
 
-
+Seguidamente se nos muestra una ventana con el sistema de imagen que queremos para nuesta versión. Lo más recomendable para no tener errores es seleccionar la misma versión que pusimos en la configuración del proyecto inicial.
+En nuestro caso pusimos la Api 22, lollipop 5.1. Si nos fijamos debemos de seleccionar una de estas tres versiones dependiendo de la finalidad de nuestra App. En nuestro caso "x86". Pulsamos "Next" y en la siguiente ventana "Finish".
 
 ![](/images/android/helloWorld/15.png)
+
 ![](/images/android/helloWorld/16.png)
+
+Ahora cerramos la ventana modal de nuestros dispositivos virtuales y seleccionamos arrancar nuestra aplicación con el dispositivo conectado en modo debug al ordenador o con el emulador creado.
+Seleccionamos la opción "Launch emulator" y elegimos nuestro emulador.
+
 ![](/images/android/helloWorld/17.png)
+
+A continuacion se activará el dispositivo y aparecerá arriba automáticamente. Lo seleccionamos y le damos al botón "Ok".
+
 ![](/images/android/helloWorld/18.png)
+
+Seguidamente se arrancará el emulador reiniciando el sistema operativo de android (esta operación puede tardar unos minutos).
+Finalmente nuestra aplicación "Hola Mundo" aparecerá en el display del dispositivo emulado.
+
+![](/images/android/helloWorld/22.png)
