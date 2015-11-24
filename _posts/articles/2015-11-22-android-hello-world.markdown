@@ -128,3 +128,9 @@ Como añadido os dejamos un video de como se ejecuta la aplicación en un dispos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDVITRFEyCc" frameborder="0" allowfullscreen></iframe>
 <br>
 ![](/images/android/helloWorld/23.png)
+
+
+Aquí podéis obtener el repositorio del proyecto: https://github.com/kotlin-es/kotlin-hello.world-android
+
+
+
